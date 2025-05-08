@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Will have complete details on how to interact with Spring boot services and fetch latest insurance details from Database.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
